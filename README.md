@@ -14,10 +14,15 @@ Este programa desarrollado en PSeInt tiene como objetivo recibir tres números d
 ## Instrucciones de Uso
 
 ### Para clonar este repositorio
-```git
-git clone https://github.com/sarisp3260/Portafolio.git
-```
 
+#### Por medio de SSH
+```git
+git clone git@github.com:sarisp3260/logica-programacion-1.git
+```
+#### Por medio de HTTPS
+```git
+git clone https://github.com/sarisp3260/logica-programacion-1.git
+```
 1. Ejecuta el programa en PSeInt. Si no lo tienes intalado dirigete [aquí](https://pseint.sourceforge.net/?page=descargas.php)
 2. Ingresa los tres números solicitados por el programa.
 3. Observa los resultados obtenidos: los números ordenados, el mensaje de igualdad si aplica, y los números identificados como mayor, del centro y menor.
